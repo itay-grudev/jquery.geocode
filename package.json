@@ -1,0 +1,28 @@
+{
+    "name": "geocode",
+    "title": "jQuery Geocode",
+    "description": "A Client Side Geocoding library for jQuery",
+    "keywords": [
+        "geocoding",
+        "google",
+        "maps",
+        "client-side"
+    ],
+    "version": "0.0.1",
+    "author": {
+        "name": "Itay Grudev",
+        "url": "http://github.com/itay-grudev"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://raw.githubusercontent.com/itay-grudev/jquery.geocode/master/COPYING"
+        }
+    ],
+    "bugs": "https://github.com/itay-grudev/jquery.geocode/issues",
+    "homepage": "https://github.com/itay-grudev/jquery.geocode",
+    "docs": "https://github.com/itay-grudev/jquery.geocode",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
