@@ -49,9 +49,11 @@ Examples
 
 ### Location Search Form
 
+Example on [jsFiddle](http://jsfiddle.net/ItayGrudev/n70nvu7w/)
+
 JavaScript:
 ```js
-$('.geocode-map-assist').geocode();
+$('.geocode-assist').geocode();
 ```
 
 HTML:
@@ -65,6 +67,9 @@ HTML:
 ```
 
 ### Geocoding with a map picker and multiple fields
+
+Example on [jsFiddle](http://jsfiddle.net/ItayGrudev/exeL5h97/)
+
 JavaScript:
 ```js
 $('.geocode-map-assist').geocode({
